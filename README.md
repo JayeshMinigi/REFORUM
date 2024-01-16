@@ -96,10 +96,7 @@ Congratulation! You now have a clone of this application in your server. :-)
 * Make the installation process more interactive
 * Add multiple theme support.
 
-## License
-[MIT License](https://github.com/shoumma/Mister-Poster/blob/master/LICENSE). Do whatever you want to do. :-)
-
 ## Conclusion
 The application is created with lots of ♥. Any pull request, issues and contribution is very appreciated. It would be really great if we can take this application to the next level, where it can be used as a platform for forums.
 
-[Provash Shoumma](https://twitter.com/proshoumma)
+[Jayesh Minigi](www.linkedin.com/in/jayesh-minigi-b21255227)
