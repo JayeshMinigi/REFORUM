@@ -99,4 +99,4 @@ Congratulation! You now have a clone of this application in your server. :-)
 ## Conclusion
 The application is created with lots of ♥. Any pull request, issues and contribution is very appreciated. It would be really great if we can take this application to the next level, where it can be used as a platform for forums.
 
-[Jayesh Minigi](www.linkedin.com/in/jayesh-minigi-b21255227)
+[Jayesh Minigi]("www.linkedin.com/in/jayesh-minigi-b21255227")
