@@ -25,9 +25,6 @@ A minimal forum application built with the following technologies:
 ### Home View
 ![home view](./docs/design_assets/home_view.jpg)
 
-### Admin View
-![admin view](./docs/design_assets/admin_view.jpg)
-
 ## Deploy on you own server
 
 Please make sure you have following software installed in your system:
